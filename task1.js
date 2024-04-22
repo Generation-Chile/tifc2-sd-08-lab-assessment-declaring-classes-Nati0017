@@ -3,4 +3,4 @@ export class Player {
     this.name = name; 
     
   }
-  }
+}

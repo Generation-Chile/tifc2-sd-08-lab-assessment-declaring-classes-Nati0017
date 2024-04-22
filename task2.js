@@ -4,5 +4,4 @@ export class Player {
     this.level = level; 
    
   }
-    
-  }
+}
