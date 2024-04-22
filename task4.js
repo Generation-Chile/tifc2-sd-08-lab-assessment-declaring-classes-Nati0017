@@ -9,7 +9,7 @@ export class Player {
   }
 
   levelUp() { 
-    this.level + 1; 
+    this.level = this.level + 1 ; 
     // console.log(`${this.name} has reached Level ${this.level}!`);
   }
   
